@@ -1,0 +1,44 @@
+.slider .btn {
+  margin-top: 20px;
+}
+
+.section-search input {
+  padding: 5px !important;
+  font-size: 18px !important;
+  width: 90% !important;
+  border: #f4f4f4 3px solid !important;
+}
+
+.autocomplete-content {
+  position: absolute;
+  width: 100%;
+  text-align: center;
+}
+
+.section-follow .fa-4x {
+  margin: 5px 10px;
+}
+
+.section-contact h5 {
+  margin-bottom: 30px;
+}
+
+.section-follow .fb-icon:hover {
+  color: #3b5998 !important;
+}
+
+.section-follow .tw-icon:hover {
+  color: #0084b4 !important;
+}
+
+.section-follow .li-icon:hover {
+  color: #4875b4 !important;
+}
+
+.section-follow .gp-icon:hover {
+  color: #c63d2d !important;
+}
+
+.section-follow .pi-icon:hover {
+  color: #cb2027 !important;
+}
